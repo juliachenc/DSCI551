@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/DSCI551/static/css/main.bb876095.chunk.css",
+    "main.js": "/DSCI551/static/js/main.8ed0bf15.chunk.js",
+    "main.js.map": "/DSCI551/static/js/main.8ed0bf15.chunk.js.map",
+    "runtime-main.js": "/DSCI551/static/js/runtime-main.bfcb5b76.js",
+    "runtime-main.js.map": "/DSCI551/static/js/runtime-main.bfcb5b76.js.map",
+    "static/css/2.5386d656.chunk.css": "/DSCI551/static/css/2.5386d656.chunk.css",
+    "static/js/2.57a0ff41.chunk.js": "/DSCI551/static/js/2.57a0ff41.chunk.js",
+    "static/js/2.57a0ff41.chunk.js.map": "/DSCI551/static/js/2.57a0ff41.chunk.js.map",
+    "index.html": "/DSCI551/index.html",
+    "static/css/2.5386d656.chunk.css.map": "/DSCI551/static/css/2.5386d656.chunk.css.map",
+    "static/css/main.bb876095.chunk.css.map": "/DSCI551/static/css/main.bb876095.chunk.css.map",
+    "static/js/2.57a0ff41.chunk.js.LICENSE.txt": "/DSCI551/static/js/2.57a0ff41.chunk.js.LICENSE.txt",
+    "static/js/main.8ed0bf15.chunk.js.LICENSE.txt": "/DSCI551/static/js/main.8ed0bf15.chunk.js.LICENSE.txt",
+    "static/media/anime3.png": "/DSCI551/static/media/anime3.4438e506.png",
+    "static/media/all.min.css": "/DSCI551/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/nucleo-icons.css": "/DSCI551/static/media/nucleo.bd5cce8b.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfcb5b76.js",
+    "static/css/2.5386d656.chunk.css",
+    "static/js/2.57a0ff41.chunk.js",
+    "static/css/main.bb876095.chunk.css",
+    "static/js/main.8ed0bf15.chunk.js"
+  ]
+}
